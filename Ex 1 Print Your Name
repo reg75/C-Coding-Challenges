@@ -1,0 +1,11 @@
+//Task: Write a C program to print your name, date of birth, and mobile number.
+
+#include <stdio.h>
+
+int main() {
+    printf("Name: Paul Regnier\n");
+    printf("DoB: 28 / 05 / 75\n");
+    printf("Tel: 07123 555 555\n");
+
+    return 0;
+}
